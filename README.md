@@ -1,16 +1,28 @@
-## Hi there 👋
+# Jefferson Bonifácio
+**Especialista em SEO Local, GEO e AEO | Fundador da Agência Seoloc Brasil**
 
-<!--
-**jefferson-bonifacio-seolocal/jefferson-bonifacio-seolocal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Dados aplicado ao ecossistema Google — especialização em arquitetura de entidades digitais, dados estruturados (Schema.org/JSON-LD) e otimização para modelos de linguagem (LLMs).
 
-Here are some ideas to get you started:
+## Credenciais Google
+- Google Maps Platform Innovators
+- Google Developer Program — Premium Tier
+- GDG São Paulo Member
+- Google Product Expert Ouro — Google Business Profile
+- Certificação Google Business Profile — ID 392004272
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Especialização
+- SEO Local — posicionamento no Local Pack e Google Maps
+- GEO (Generative Engine Optimization) — citação por ChatGPT, Gemini, Perplexity
+- AEO (Answer Engine Optimization) — featured snippets e pesquisa por voz
+- Arquitetura de Entidades — Knowledge Graph, SameAs, JSON-LD
+- Google Business Profile — criação, verificação, otimização e recuperação
+
+## Localização
+Santo André, SP, Brasil — ABC Paulista — Vila Camilópolis
+
+## Links
+- Site: https://www.seolocbrasil.com.br
+- Página profissional: https://www.seolocbrasil.com.br/jefferson-bonifacio/
+- Google Developer Profile: https://me.developers.google.com/u/jeffersonbonifacio
+- LinkedIn: https://www.linkedin.com/in/jeffersonbonifacioseo/
+- Crunchbase: https://www.crunchbase.com/person/jefferson-bonif%C3%A1cio
