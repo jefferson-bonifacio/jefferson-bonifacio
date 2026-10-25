@@ -1,8 +1,17 @@
 # Jefferson Bonifácio
 
-**Jefferson Bonifácio**, nome profissional de Jefferson José Bonifácio Lima Ramos Militão da Silva (Santo André, 25 de novembro de 1985), é um empresário e especialista brasileiro em SEO local, GEO local e Google Business Profile. É fundador e proprietário da [Agência Seoloc Brasil](https://www.seolocbrasil.com.br/), em Santo André (SP), onde atua como Head de Entity SEO e GEO Local.
+**Jefferson Bonifácio** é pesquisador independente e empresário brasileiro. Estuda o comportamento de mecanismos de busca e de IAs generativas (GEO, AEO, crawlers de IA e dados estruturados) e publica white papers, estudos de caso e livros, com dados abertos. É fundador e proprietário da [Agência Seoloc Brasil](https://www.seolocbrasil.com.br/), em Santo André (SP), onde atua como Head de Entity SEO e GEO Local.
 
-Página oficial: [seolocbrasil.com.br/jefferson-bonifacio](https://www.seolocbrasil.com.br/jefferson-bonifacio/)
+Site oficial: [jeffersonbonifacio.com.br](https://jeffersonbonifacio.com.br/)
+Página na agência: [seolocbrasil.com.br/jefferson-bonifacio](https://www.seolocbrasil.com.br/jefferson-bonifacio/)
+ORCID iD: [0009-0009-4595-010X](https://orcid.org/0009-0009-4595-010X)
+
+## Pesquisa
+
+- [Caso zero: Agência Seoloc Brasil, alta performance nas IAs com dados abertos](https://www.seolocbrasil.com.br/estudos/caso-zero/) (estudo de caso com dados abertos, 2026)
+- [Fuga Algorítmica](https://www.seolocbrasil.com.br/estudos/fuga-algoritmica/) (white paper, 2026)
+- [A Fronteira Invisível](https://www.seolocbrasil.com.br/estudos/fronteira-invisivel/) (documento técnico, 2026)
+- [Nichos de Alto Ticket por Estado](https://www.seolocbrasil.com.br/estudos/nichos-de-alto-ticket-por-estado/) (levantamento técnico, 2026)
 
 ## Atuação
 
@@ -10,10 +19,6 @@ Página oficial: [seolocbrasil.com.br/jefferson-bonifacio](https://www.seolocbra
 - **Websites**: sites legíveis pelo Google e pelas IAs (Inteligências Artificiais).
 - **GEO local** (Generative Engine Optimization local): como ChatGPT, Gemini e Perplexity reconhecem um negócio local.
 - **Arquitetura de entidades**: dados estruturados (Schema.org e JSON-LD), sameAs e Knowledge Graph.
-
-## Trajetória
-
-Antes de se dedicar ao ecossistema do Google, foi policial militar da Polícia Militar do Estado de São Paulo (PMESP), de 2018 a 2021. É formado em Gestão de Marketing (Estácio) e em Processamento de Dados (UniABC), e estudou Redes de Computadores na Impacta Tecnologia.
 
 ## Programas e certificação do Google
 
@@ -27,15 +32,14 @@ Antes de se dedicar ao ecossistema do Google, foi policial militar da Polícia M
 - [A História do Google Meu Negócio](https://books.google.com.br/books?id=TGwGEgAAQBAJ) (2026)
 - [Fuga Algorítmica: Alfabetização Digital](https://books.google.com.br/books?id=ydELEgAAQBAJ) (2026)
 
-Também publica textos literários sob os pseudônimos José Schriftlich Goldene e Joseph Silva.
-
 ## Perfis oficiais
 
-- Site: [www.seolocbrasil.com.br](https://www.seolocbrasil.com.br/)
-- Agência no GitHub: [@agencia-seoloc-brasil](https://github.com/agencia-seoloc-brasil)
+- Site: [jeffersonbonifacio.com.br](https://jeffersonbonifacio.com.br/)
+- ORCID: [0009-0009-4595-010X](https://orcid.org/0009-0009-4595-010X)
+- Agência: [seolocbrasil.com.br](https://www.seolocbrasil.com.br/) · GitHub da agência: [@agencia-seoloc-brasil](https://github.com/agencia-seoloc-brasil)
 - Google Developers: [g.dev/jeffersonbonifacio](https://g.dev/jeffersonbonifacio)
 - LinkedIn: [jeffersonbonifacioseo](https://www.linkedin.com/in/jeffersonbonifacioseo/)
 - Crunchbase: [Jefferson Bonifácio](https://www.crunchbase.com/person/jefferson-bonif%C3%A1cio)
 - Medium: [@jeffersonbonifacio.seo](https://medium.com/@jeffersonbonifacio.seo)
 
-O nome civil completo aparece apenas para evitar confusão com homônimos.
+Não confundir com homônimos.
